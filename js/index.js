@@ -304,7 +304,7 @@ function reveal() {
   }
   
   var ifrm = document.createElement("iframe");
-        ifrm.setAttribute("src", "https://r5---sn-4g5edn6k.googlevideo.com/videoplayback?expire=1632009798&ei=5SlGYaaNPIyH0wX_6JLQBw&ip=178.238.236.233&id=o-AD1WLtAGtnDApWPSquKO3eKnSV-BtlNFQbHddxpyfEOL&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=0WwK39qNarYlRgoz63osdoQG&gir=yes&clen=18199647&ratebypass=yes&dur=196.069&lmt=1589107558415021&fexp=24001373,24007246&c=WEB&txp=5531432&n=mD__s04jBq8qP3&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAJQhLwcn7nng1Yi4tc4nWBtkU6xIIlCtFTq2TBunYmYmAiEAm1GX1CuMcJFGsliou3Jg__kTKV1l2xroI0350lFqeK0%3D&redirect_counter=1&rm=sn-hoxu-h0jz7e&req_id=743378c2830da3ee&cms_redirect=yes&ipbypass=yes&mh=_b&mm=29&mn=sn-4g5edn6k&ms=rdu&mt=1631996720&mv=m&mvi=5&pl=23&lsparams=ipbypass,mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAPcz-zLMJSMdrS2ECEsZTCngW4N_saHl-zJk2FF84DnVAiEAg7DdU83fgzMN0kO-jMM3Wul8YR-oAO3x6jlS1TaHqZA%3D");
+        ifrm.setAttribute("src", "./assets/vid.mp4");
         // ifrm.setAttribute("allow", "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture");
         //ifrm.style.width = `${w}px`;
         //ifrm.style.height = `${h}px`;
